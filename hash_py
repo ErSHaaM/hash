@@ -48,3 +48,5 @@ puthash('Sheikh','Shaam')
 puthash('heikhS','SSS')
 gethash('Sheikh')
 gethash('heikhS')
+
+#check the hash.py that is more accurate and can hanle collisions better
